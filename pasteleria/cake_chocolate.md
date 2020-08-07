@@ -1,6 +1,6 @@
 # Cake Australiana de Chocolate
 
-## Osvaldo Gross
+Por Osvaldo Gross
 
 ### Ingredientes
 

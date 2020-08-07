@@ -1,6 +1,6 @@
 # Torta Clásica de Cumpleaños
 
-## Anna Olson
+Por Anna Olson
 
 ### Ingredientes
 
