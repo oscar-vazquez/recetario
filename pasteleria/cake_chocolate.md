@@ -2,9 +2,9 @@
 
 Por Osvaldo Gross
 
-### Ingredientes
+## Ingredientes
 
-#### Cake de Chocolate
+### Cake de Chocolate
 
 * Polvo de hornear 15 grs.
 * Huevos 120 grs. (2 unidades)
@@ -17,7 +17,7 @@ Por Osvaldo Gross
 * Cacao Amargo 30 grs.
 * Bicarbonato de sodio 5 grs.
 
-#### Glaseado de chocolate
+### Glaseado de chocolate
 
 * Cacao Amargo 30 grs.
 * anteca 100 grs.
@@ -25,9 +25,9 @@ Por Osvaldo Gross
 * Agua 60 cc
 * Azúcar 100 grs.
 
-### Preparación
+## Preparación
 
-#### Cake de Chocolate
+### Cake de Chocolate
 
 Calentar el agua, el azúcar, la manteca, el cacao y el bicarbonato.
 
@@ -40,7 +40,7 @@ Volcar la masa en un marco de 20 cm por 30 cm por 5 cm. de alto.
 
 Hornear a 175° C por 30 a 35 minutos.
 
-#### Glaseado de Chocolate
+### Glaseado de Chocolate
 
 Calentar la manteca con el azúcar y el agua.
 
@@ -56,7 +56,7 @@ Batir en el momento de utilizar.
 
 > Este glaseado se puede utilizar caliente, frio, o frio y batido.
 
-#### Notas
+## Notas
 
 * Da para un molde de budín grande
 
