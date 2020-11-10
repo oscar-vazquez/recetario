@@ -7,3 +7,4 @@
 * [Cake Australiana de Chocolate](pasteleria/cake_chocolate.md) por Osvaldo Gross
 * [Budín con Chips de Chocolate](pasteleria/budin_chips.md) por @FMilanessi
 * [Cake Básica con Queso Crema](pasteleria/cake_basica_queso_cream.md) por Osvaldo Gross
+* [Budín de Limón y Arándanos](pasteleria/budin_limon_arandanos.md)
