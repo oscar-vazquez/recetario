@@ -9,3 +9,4 @@
 * [Cake Básica con Queso Crema](pasteleria/cake_basica_queso_cream.md) por Osvaldo Gross
 * [Budín de Limón y Arándanos](pasteleria/budin_limon_arandanos.md)
 * [Budín Hamburgues](pasteleria/budin_hamburgues.md) por Osvaldo Gross
+* [Budín de Coco](pasteleria/budin_coco.md) por Matías Chavero
